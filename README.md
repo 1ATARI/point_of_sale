@@ -20,7 +20,7 @@ Intervention Image provides an easier and more expressive way to create, edit, a
 PHPFlasher for flash messages  (notification)
 
 
-  <h4>I recommend to use it in English to get the best experience</h4>
+  <h6>I recommend to use it in English to get the best experience</h6>
 
 
 There are many bugs in the design because I downloaded it in both Arabic and English
