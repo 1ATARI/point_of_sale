@@ -1,6 +1,4 @@
 
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-
 # Point of sale
 
 
@@ -8,9 +6,6 @@
 This site is for the point of sale, you can create, read, update, delete, (user (admin), Categories, Products, Clients, Orders)
 and give user(admin) permissions to create, read, update, and delete (user (admin), Categories, products, Clients, orders)
 
-There are many bugs in the design because I downloaded it in both Arabic and English
-Not from the official website, but from someone who modified it to suit Arabic and English
-I had to solve a lot of problems with it in CSS and Arabic bootstrap
 
 the libraries I use are
 
@@ -25,7 +20,9 @@ Intervention Image provides an easier and more expressive way to create, edit, a
 PHPFlasher for flash messages  (notification)
 
 
-<div class="w3-panel w3-red">
-  <h3>I recommend to use it in English to get the best experience</h3>
+  <h4>I recommend to use it in English to get the best experience</h4>
 
-</div>
+
+There are many bugs in the design because I downloaded it in both Arabic and English
+Not from the official website, but from someone who modified it to suit Arabic and English
+I had to solve a lot of problems with it in CSS and Arabic bootstrap
